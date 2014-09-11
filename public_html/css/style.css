@@ -1,7 +1,47 @@
 body {
     background-color: red;
 }
-
+/*All the links are white.*/
 a {
     color: white;
+    width: 300px;
+}
+
+#current-link {
+    text-decoration: none;
+}
+/*There was no need for the word App Academy to be uppercase.>
+/*
+.uppercase {
+    text-transform: uppercase;
+    font-size: 38px;
+}
+*/
+
+img {
+    width: 700px;
+    height: auto;
+}
+
+/*h1 through h6*/
+h1 {
+    border: 2px dashed white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+h3 {
+    border-top: 1px dashed white;
+}
+h4 {
+    border-top: 1px dashed white;
+}
+h5 {
+    border-top: 1px dashed white;
+}
+h6 {
+    border-top: 1px dashed white;
 }
